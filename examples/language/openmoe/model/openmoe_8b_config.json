@@ -43,7 +43,7 @@
   "router_drop_tks": true,
   "router_min_capacity": 4,
   "router_noisy_policy": null,
-  "router_topk": 2,
+  "router_topk": 4,
   "router_z_loss_factor": 0.0001,
   "tie_word_embeddings": false,
   "torch_dtype": "float32",
